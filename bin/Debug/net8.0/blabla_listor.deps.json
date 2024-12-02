@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "blabla_listor/1.0.0": {
+        "runtime": {
+          "blabla_listor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "blabla_listor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
